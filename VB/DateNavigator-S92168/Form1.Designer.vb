@@ -59,6 +59,7 @@
             Me.dateNavigator1.FirstDayOfWeek = System.DayOfWeek.Monday
             Me.dateNavigator1.Location = New System.Drawing.Point(443, 0)
             Me.dateNavigator1.Name = "dateNavigator1"
+        Me.dateNavigator1.CellPadding = New System.Windows.Forms.Padding(2)
             Me.dateNavigator1.SchedulerControl = Me.schedulerControl1
             Me.dateNavigator1.Size = New System.Drawing.Size(206, 362)
             Me.dateNavigator1.TabIndex = 1
