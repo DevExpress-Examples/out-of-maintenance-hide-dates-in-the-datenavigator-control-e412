@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyDateNavigator.cs](./CS/DateNavigator-S92168/MyDateNavigator.cs) (VB: [MyDateNavigator.vb](./VB/DateNavigator-S92168/MyDateNavigator.vb))
+<!-- default file list end -->
 # Hide dates in the DateNavigator control
 
 
